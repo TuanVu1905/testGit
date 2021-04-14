@@ -62,6 +62,7 @@ const App: () => Node = () => {
   return (
     <SafeAreaView style={backgroundStyle}>
       <Text>hello</Text>
+      <Text>Tuấn Vũ</Text>
     </SafeAreaView>
   );
 };
